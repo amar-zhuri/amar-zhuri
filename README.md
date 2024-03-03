@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">A passionate back-end developer and software engineer from Kosovo</h3>
+<h4 align="center">Pursuing a Computer Science degree at a globally recognized institution, I am deeply immersed in the intricate world of software development and computer science. Boasting a flawless GPA of 5 out of 5, my academic journey at the University of Debrecen has fortified my passion for exploring the nuances of this dynamic field.
+
+Proficient across a diverse array of programming languages including Java, C, HTML, CSS, JavaScript, SQL, and NoSQL, my skill set extends beyond mere coding. With hands-on experience in cutting-edge technologies such as Maven, Lombok, and JavaFX, coupled with adept utilization of development tools like IntelliJ, Visual Studio, and Visual Studio Code, I am equipped to navigate the complexities of modern software engineering.
+
+My current role as a .NET Developer intern at Starlabs serves as a fertile ground for honing my skills and gaining invaluable real-world experience. Here, I am afforded the opportunity to bridge the gap between theoretical knowledge and practical application, contributing meaningfully to software development projects while expanding my understanding of fundamental engineering principles.
+
+Beyond my academic and professional pursuits, I am fueled by a fervent curiosity to explore diverse technological domains, with a particular penchant for delving into the realms of computer networks and electronics. My passion for continuous learning is underscored by a series of certifications in React Native Development, Computer Networks, Electronics and Arduino, Junior Java Development, Back-End Development, and Front-End Development, each serving as a testament to my unwavering commitment to personal and professional growth.
+
+Looking ahead, my aspirations are anchored in a steadfast dedication to expanding my knowledge and expertise in software development. With a resolute focus on contributing to innovative projects that leave a positive impact, I am driven by the conviction that collaboration, creativity, and dedication are the cornerstones of meaningful contributions to the tech community.
+
+
+
+
+
+ </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-zhuri&label=Profile%20views&color=0e75b6&style=flat" alt="amar-zhuri" /> </p>
 
