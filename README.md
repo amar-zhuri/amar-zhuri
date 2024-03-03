@@ -28,7 +28,8 @@ Looking ahead, my aspirations are anchored in a steadfast dedication to expandin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/amar-zhuri-671033259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar-zhuri" height="30" width="40" /></a>
+<a href="[linkedin.com/in/amar-zhuri-671033259](https://www.linkedin.com/in/amar-zhuri-671033259/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar-zhuri" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar-zhuri" height="30" width="40" /></a>
 <a href="https://discord.gg/281835507070271489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="281835507070271489" height="30" width="40" /></a>
 </p>
 
