@@ -2,7 +2,7 @@
 <h3 align="center">A passionate back-end developer and software engineer from Kosovo</h3>
 <h4 align="center">Pursuing a Computer Science degree at a globally recognized institution, I am deeply immersed in the intricate world of software development and computer science. Boasting a flawless GPA of 5 out of 5, my academic journey at the University of Debrecen has fortified my passion for exploring the nuances of this dynamic field.
 
-Proficient across a diverse array of programming languages including Java, C, HTML, CSS, JavaScript, SQL, and NoSQL, my skill set extends beyond mere coding. With hands-on experience in cutting-edge technologies such as Maven, Lombok, and JavaFX, coupled with adept utilization of development tools like IntelliJ, Visual Studio, and Visual Studio Code, I am equipped to navigate the complexities of modern software engineering.
+Proficient across a diverse array of programming languages including Java(Spring boot, Maven, Lombok, JAVAFX etc), C, C++  JavaScript, SQL, NoSQL, HTML and CSS, my skill set extends beyond mere coding. With hands-on experience in cutting-edge technologies such as Spring Boot, Maven, Lombok, and JavaFX, coupled with adept utilization of development tools like IntelliJ, Visual Studio, and Visual Studio Code, I am equipped to navigate the complexities of modern software engineering.
 
 My current role as a .NET Developer intern at Starlabs serves as a fertile ground for honing my skills and gaining invaluable real-world experience. Here, I am afforded the opportunity to bridge the gap between theoretical knowledge and practical application, contributing meaningfully to software development projects while expanding my understanding of fundamental engineering principles.
 
