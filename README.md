@@ -51,13 +51,6 @@ I believe in continuous learning and collaboration. That's why I'm always explor
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amar-zhuri&show_icons=true&hide_title=true&count_private=true" alt="amar-zhuri" />
-</p>
-
----
-
 ### 📚 Some Fun Facts About Me
 - When I'm not coding, I enjoy tinkering with **electronics** and experimenting with **Arduino**.
 - I’m passionate about building **smart devices** and integrating them into everyday life.
